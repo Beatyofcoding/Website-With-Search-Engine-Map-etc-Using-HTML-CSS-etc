@@ -48,3 +48,9 @@ body {
 .SearchImage {
   width: 50%;
 }
+.start {
+/* background: url(https://thumbs.dreamstime.com/z/happy-man-snow-covered-enjoying-winter-33761243.jpg) no-repeat; */
+background-image: url(https://images.unsplash.com/photo-1545670723-196ed0954986?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80);
+background-size:1800px 800px;
+background-repeat: no-repeat;
+}
